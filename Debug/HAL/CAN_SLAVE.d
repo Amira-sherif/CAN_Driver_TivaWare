@@ -1,0 +1,6 @@
+# FIXED
+
+HAL/CAN_SLAVE.obj: ../HAL/CAN_SLAVE.c
+
+../HAL/CAN_SLAVE.c:
+
